@@ -65,7 +65,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🗳️ **Kenya Political Intelligence Dashboard** | Real-time dashboard tracking political data and trends | Next.js, Supabase, Vercel |
-|  **[Kenya-Politics]** | [One-line description] | [Stack] |
+| 🗳️ **[Kenya-Politics](https://github.com/yourusername/Kenya-Politics)** | Data pipeline and analysis of Kenyan election results | Python, Pandas, PostgreSQL |
 
 
 
