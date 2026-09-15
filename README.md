@@ -1,12 +1,10 @@
-<div align="center">
+# <p align="center"> 🙋‍♂️Hello, I'm BEN DAVE</p>
 
-# 👋 Hey there, I'm BEN DAVE
+### <p align="center">Full-Stack Developer • Cyber Security Analyst • Data Analytics Enthusiast</p>
 
-### Full-Stack Developer • Cyber Security Analyst • Data Analytics Enthusiast
+<p align="center"><code>Building secure, full-stack software solutions powered by data-driven insights.</code></p>
 
-`Building secure, full-stack software solutions powered by data-driven insights.`
-
-🛸 [Email Me](mailto:bendave038@gmail.com)
+<p align="center">🛸 <a href="mailto:bendave038@gmail.com">Email Me</a></p>
 
 ---
 
@@ -21,23 +19,21 @@
 
 ### 🛠️ Core Tech Stack
 
-<!-- Full-Stack & Languages -->
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
-<br />
-
-<!-- Data & Security -->
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-
-</div>
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 ---
 
