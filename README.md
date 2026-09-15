@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Ben Bengo]🙋‍♂️ </h1>
+<h1 align="center">Hi, I'm Ben Bengo🙋‍♂️ </h1>
 <h3 align="center">Fullstack Developer · Data Analyst · Cybersecurity Enthusiast</h3>
 
 <p align="center">
