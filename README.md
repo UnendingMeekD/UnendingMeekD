@@ -1,37 +1,41 @@
 <div align="center">
 
-# 👋 Helloo, I'm BEN DAVE
+# 👋 Hey there, I'm BEN DAVE
 
-### Cyber Security Analyst • Data Analytics Enthusiast 
+### Full-Stack Developer • Cyber Security Analyst • Data Analytics Enthusiast
 
-`Analyzing complex data structures to predict, identify, and defend against digital threats.`
+`Building secure, full-stack software solutions powered by data-driven insights.`
 
 🛸 [Email Me](mailto:bendave038@gmail.com)
 
 ---
 
-### 📊 Security & Analytics Metrics
+### 📈 GitHub Ecosystem Metrics
 
 <p align="center">
-  <img src="https://vercel.app" height="150" alt="stats card" />
-  <img src="https://vercel.app" height="150" alt="languages card" />
+  <img src="https://vercel.app" height="150" alt="GitHub Stats" />
+  <img src="https://vercel.app" height="150" alt="Top Languages" />
 </p>
 
 ---
 
-### 🛠️ Core Engineering Stack
+### 🛠️ Core Tech Stack
 
-<!-- Data Analytics Tools -->
-![Python](https://shields.io)
-![R](https://shields.io)
-![MySQL](https://shields.io)
-![Power Bi](https://shields.io)
+<!-- Full-Stack & Languages -->
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 
-<!-- Cyber Security & Infrastructure -->
-![Linux](https://shields.io)
-![AWS](https://shields.io)
-![Docker](https://shields.io)
-![Wireshark](https://shields.io)
+<br />
+
+<!-- Data & Security -->
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
+<img src="https://shields.io" />
 
 </div>
 
